@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://notebookmerit.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://notebookmerit.com/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://notebookmerit.com/collection.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://notebookmerit.com/products.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://notebookmerit.com/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://notebookmerit.com/blog.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://notebookmerit.com/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://notebookmerit.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://notebookmerit.com/privacy-policy.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notebookmerit.com/terms-and-conditions.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notebookmerit.com/disclaimer.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notebookmerit.com/cookie-policy.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://notebookmerit.com/blog/cognitive-load-theory-and-multimedia-pedagogy.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://notebookmerit.com/blog/neural-mechanisms-of-concept-mapping-and-spatial-memory.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://notebookmerit.com/blog/spaced-repetition-algorithms-and-retrieval-practice-kinetics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://notebookmerit.com/blog/metacognitive-scaffolding-and-inquiry-based-curricula.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://notebookmerit.com/blog/neuroplasticity-and-executive-function-in-accelerated-learning.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://notebookmerit.com/blog/pedagogical-diagnostics-and-adaptive-learning-metrology.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
